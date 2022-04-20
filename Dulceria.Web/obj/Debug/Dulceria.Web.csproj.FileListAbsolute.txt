@@ -1,0 +1,7 @@
+C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\bin\Dulceria.Web.dll.config
+C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\bin\Dulceria.Web.dll
+C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\bin\Dulceria.Web.pdb
+C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.AssemblyReference.cache
+C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.CoreCompileInputs.cache
+C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceria.Web.dll
+C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceria.Web.pdb
