@@ -5,3 +5,10 @@ C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceri
 C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.CoreCompileInputs.cache
 C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceria.Web.dll
 C:\Users\El usuario\Desktop\TP cole\C#\DulceriaTP\Dulceria.Web\obj\Debug\Dulceria.Web.pdb
+E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\bin\Dulceria.Web.dll
+E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\bin\Dulceria.Web.pdb
+E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.AssemblyReference.cache
+E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.CoreCompileInputs.cache
+E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.dll
+E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.pdb
+E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\bin\Dulceria.Web.dll.config
