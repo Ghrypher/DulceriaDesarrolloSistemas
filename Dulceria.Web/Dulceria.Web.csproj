@@ -58,6 +58,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="listProductos.aspx" />
     <Content Include="logIn.aspx" />
     <Content Include="MasterPage.Master" />
     <None Include="Web.Debug.config">
@@ -72,6 +73,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="listProductos.aspx.cs">
+      <DependentUpon>listProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="listProductos.aspx.designer.cs">
+      <DependentUpon>listProductos.aspx</DependentUpon>
+    </Compile>
     <Compile Include="logIn.aspx.cs">
       <DependentUpon>logIn.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
