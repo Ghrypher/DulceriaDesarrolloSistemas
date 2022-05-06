@@ -12,3 +12,10 @@ E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.
 E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.dll
 E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.pdb
 E:\Huergo\DulceriaDesarrolloSistemas\Dulceria.Web\bin\Dulceria.Web.dll.config
+C:\Users\Usuario\Desktop\TP cole\C#\DulceriaDesarrolloSistemas\Dulceria.Web\bin\Dulceria.Web.dll.config
+C:\Users\Usuario\Desktop\TP cole\C#\DulceriaDesarrolloSistemas\Dulceria.Web\bin\Dulceria.Web.dll
+C:\Users\Usuario\Desktop\TP cole\C#\DulceriaDesarrolloSistemas\Dulceria.Web\bin\Dulceria.Web.pdb
+C:\Users\Usuario\Desktop\TP cole\C#\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP cole\C#\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP cole\C#\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.dll
+C:\Users\Usuario\Desktop\TP cole\C#\DulceriaDesarrolloSistemas\Dulceria.Web\obj\Debug\Dulceria.Web.pdb
