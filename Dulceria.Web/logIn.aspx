@@ -18,7 +18,7 @@
     <form id="form2" runat="server">
 <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-12">
                     <br />
                     <div class="card">
                         <div class="card-body">

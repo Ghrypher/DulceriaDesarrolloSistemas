@@ -33,24 +33,21 @@
                                             <div class="">Dulceria</div>
                                         </div>
                                         <div class="navbar d-inline-flex">
-                                            <div class="">Cerrar Sesion</div>
+                                            <a  class="nav-link active" style="color:black" aria-current="page" href="login.aspx">Cerrar Sesion</a>
                                         </div>
                                         <div class="navbar-collapse collapse w-100" id="navbarText">
                                             <ul class="d-flex justify-content-around navbar-nav me-auto mb-2 mb-lg-0" style="width:100%">               
                                                     <li class="nav-item">
-                                                        <a class="nav-link active" aria-current="page" href="Clientes.aspx">Clientes</a>
+                                                        <a class="nav-link active" aria-current="page" href="listProductos.aspx">Productos</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="nav-link active" aria-current="page" href="Vendedores.aspx">Vendedores</a>
+                                                        <a class="nav-link active" aria-current="page" href="#">Devolver producto</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="nav-link active" aria-current="page" href="Vehiculos.aspx">Vehiculos</a>
+                                                        <a class="nav-link active" aria-current="page" href="#">Consultas</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="nav-link active" aria-current="page" href="Accesorios.aspx">Accesorios</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a  class="nav-link active" aria-current="page" href="Ventas.aspx">Ventas</a>
+                                                        <a class="nav-link active" aria-current="page" href="#">Carrito</a>
                                                     </li>
                                                 </ul>
                                             </div>
