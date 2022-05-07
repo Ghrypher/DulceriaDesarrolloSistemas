@@ -16,25 +16,32 @@
 </head>
 <body>
     <form id="form2" runat="server">
-        <div class="container">
+<div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <br />
                     <div class="card">
                         <div class="card-body">
                             <div class="row">
-                                <div class="col-6">
+                                <div class="col-md-6" style="margin-top:1em">
                                     <asp:Label ID="Label1" runat="server" Text="Usuario"></asp:Label>
                                     <asp:TextBox ID="txUsuario" type="form-control" CssClass="form-control" runat="server"></asp:TextBox>
                                 </div> 
-                                <div class="col-6">
+                                <div class="col-md-6" style="margin-top:1em">
                                     <asp:Label ID="Label3" runat="server" Text="Contraseña"></asp:Label>
-                                    <asp:TextBox ID="txContraseña" type="form-control" CssClass="form-control" runat="server"></asp:TextBox>
+                                    <asp:TextBox ID="txContraseña" type="form-control" CssClass="form-control" runat="server" TextMode="Password"></asp:TextBox>
                                 </div>
-                                <div class="col-3"></div>
-                                <div class="col-6">
-                                    <asp:Label ID="lbError" runat="server" Text=" "></asp:Label>
-                                    <asp:Button ID="Button1" CssClass="btn btn-primary w-100" runat="server" Text="Iniciar Sesion" style =" margin-top: 10px; center; "/>
+                                <div class="col-md-6 order-md-2 order-sm-1">
+                                    <br />
+                                    <asp:Button ID="btInicio" CssClass="btn btn-primary w-100" runat="server" Text="Iniciar Sesion"/>
+                                </div>
+                                <div class="col-md-6 order-md-1 order-sm-2">
+                                    <br />
+                                    <asp:Button ID="btRegistro" CssClass="btn btn-link w-100" runat="server" Text="Registrarse"/>
+                                </div>
+                                <div class="col-12 order-3">
+                                    <br />
+                                    <asp:Label ID="lbError" runat="server" Text=""></asp:Label>
                                 </div>
                             </div>
                             <hr />

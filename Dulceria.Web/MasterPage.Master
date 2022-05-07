@@ -18,35 +18,50 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-        <nav class="d-flex flex-lg-column navbar navbar-expand-lg navbar-light bg-light w-100" style="width:auto">
-                <a class="navbar-brand" href="#"></a>
-                <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar d-flex" style="width:85%">
-                    <div class="m-auto p-2">Dulceria</div>
-                    <div class="p-2">Cerrar Sesion</div>
-                </div>
-                <div class="navbar-collapse collapse w-100" id="navbarText">
-                    <ul class="d-flex justify-content-around navbar-nav me-auto mb-2 mb-lg-0" style="width:100%">               
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="Clientes.aspx">Clientes</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="Vendedores.aspx">Vendedores</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="Vehiculos.aspx">Vehiculos</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="Accesorios.aspx">Accesorios</a>
-                            </li>
-                            <li class="nav-item">
-                                <a  class="nav-link active" aria-current="page" href="Ventas.aspx">Ventas</a>
-                            </li>
-                        </ul>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row">
+                                <nav class="d-flex flex-wrap navbar-expand-lg navbar-light bg-light w-100">
+                                        <a class="navbar-brand" href="#"></a>
+                                        <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                                            <span class="navbar-toggler-icon"></span>
+                                        </button>
+                                        <div class="navbar d-flex m-auto">
+                                            <div class="">Dulceria</div>
+                                        </div>
+                                        <div class="navbar d-inline-flex">
+                                            <div class="">Cerrar Sesion</div>
+                                        </div>
+                                        <div class="navbar-collapse collapse w-100" id="navbarText">
+                                            <ul class="d-flex justify-content-around navbar-nav me-auto mb-2 mb-lg-0" style="width:100%">               
+                                                    <li class="nav-item">
+                                                        <a class="nav-link active" aria-current="page" href="Clientes.aspx">Clientes</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link active" aria-current="page" href="Vendedores.aspx">Vendedores</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link active" aria-current="page" href="Vehiculos.aspx">Vehiculos</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link active" aria-current="page" href="Accesorios.aspx">Accesorios</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a  class="nav-link active" aria-current="page" href="Ventas.aspx">Ventas</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                    </nav>
+                                </div>
+                          </div>
                     </div>
-            </nav>
+                </div>
+            </div>
+        </div>
+
     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
     </asp:ContentPlaceHolder>
 </body>
