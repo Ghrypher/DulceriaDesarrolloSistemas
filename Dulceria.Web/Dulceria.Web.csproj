@@ -73,6 +73,7 @@
   <ItemGroup>
     <Content Include="Producto.aspx" />
     <Content Include="GridProductos.aspx" />
+    <Content Include="ProductoAlta.aspx" />
     <Content Include="Registrarse.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -111,6 +112,13 @@
     </Compile>
     <Compile Include="GridProductos.aspx.designer.cs">
       <DependentUpon>GridProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductoAlta.aspx.cs">
+      <DependentUpon>ProductoAlta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductoAlta.aspx.designer.cs">
+      <DependentUpon>ProductoAlta.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registrarse.aspx.cs">
