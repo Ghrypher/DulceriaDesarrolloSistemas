@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="88a06bc08cb14dc595ed23cd66f4ad7d" Name="Diagram1">
+        <EntityTypeShape EntityType="DulceriaModel.categoria" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DulceriaModel.cliente" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DulceriaModel.detalle" Width="1.5" PointX="7.5" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DulceriaModel.envio" Width="1.5" PointX="7.5" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DulceriaModel.producto" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DulceriaModel.roles" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DulceriaModel.tarjeta" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DulceriaModel.ventas" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <AssociationConnector Association="DulceriaModel.producto_FK_Producto_Categoria" ManuallyRouted="false" />
+        <AssociationConnector Association="DulceriaModel.cliente_FK_Cliente_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="DulceriaModel.tarjeta_FK_Tarjeta_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DulceriaModel.ventas_FK_Ventas_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DulceriaModel.detalle_FK_Detalle_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DulceriaModel.detalle_FK_Detalle_Ventas" ManuallyRouted="false" />
+        <AssociationConnector Association="DulceriaModel.envio_FK_Envio_Ventas" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
